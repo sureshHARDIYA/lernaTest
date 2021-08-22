@@ -1,6 +1,8 @@
 import React, { ReactElement } from 'react';
 import { Button, Input } from '@namespace/components';
 
+// import Button from "@namespace/components";
+
 const App = (): ReactElement => {
   return (
     <div className="App">
